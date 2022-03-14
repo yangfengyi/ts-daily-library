@@ -1,0 +1,27 @@
+{
+  "name": "ts-daily-library",
+  "version": "1.0.0",
+  "description": "学习ts技巧",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangfengyi/ts-daily-library.git"
+  },
+  "keywords": [
+    "ts",
+    "learn"
+  ],
+  "author": "yangfengyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangfengyi/ts-daily-library/issues"
+  },
+  "homepage": "https://github.com/yangfengyi/ts-daily-library#readme",
+  "devDependencies": {}
+}

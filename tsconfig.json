@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    // 不能使用any
+    "noImplicitAny": true,
+    // 开启严格检查
+    "strict": true,
+    // 不能随便使用this
+    "noImplicitThis": true,
+    // 代码中不能出现null
+    "strictNullChecks": true
+  }
+}
